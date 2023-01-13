@@ -1,0 +1,17 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rebeccapurple;
+    }
+.memo-box{
+    margin-top: 10%;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(34, 34, 99);
+}
